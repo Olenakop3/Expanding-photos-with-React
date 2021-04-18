@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expanding-photos-with-React/static/css/main.91d10cb9.chunk.css",
+    "main.js": "/Expanding-photos-with-React/static/js/main.ada08964.chunk.js",
+    "main.js.map": "/Expanding-photos-with-React/static/js/main.ada08964.chunk.js.map",
+    "runtime-main.js": "/Expanding-photos-with-React/static/js/runtime-main.3c6fd02b.js",
+    "runtime-main.js.map": "/Expanding-photos-with-React/static/js/runtime-main.3c6fd02b.js.map",
+    "static/js/2.76fe800d.chunk.js": "/Expanding-photos-with-React/static/js/2.76fe800d.chunk.js",
+    "static/js/2.76fe800d.chunk.js.map": "/Expanding-photos-with-React/static/js/2.76fe800d.chunk.js.map",
+    "static/js/3.2194a651.chunk.js": "/Expanding-photos-with-React/static/js/3.2194a651.chunk.js",
+    "static/js/3.2194a651.chunk.js.map": "/Expanding-photos-with-React/static/js/3.2194a651.chunk.js.map",
+    "index.html": "/Expanding-photos-with-React/index.html",
+    "static/css/main.91d10cb9.chunk.css.map": "/Expanding-photos-with-React/static/css/main.91d10cb9.chunk.css.map",
+    "static/js/2.76fe800d.chunk.js.LICENSE.txt": "/Expanding-photos-with-React/static/js/2.76fe800d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6fd02b.js",
+    "static/js/2.76fe800d.chunk.js",
+    "static/css/main.91d10cb9.chunk.css",
+    "static/js/main.ada08964.chunk.js"
+  ]
+}
